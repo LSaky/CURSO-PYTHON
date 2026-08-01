@@ -12,7 +12,7 @@ or4 = (5 < 2) | (5 < 2) #Devuelve FALSE
 
 
 #NOT
-not1 = NOT 5 == 5 #Devuelve FALSE 
-not2 = NOT 5 < 2 #Devuelve TRUE
+#not1 = NOT 5 == 5 #Devuelve FALSE 
+#not2 = NOT 5 < 2 #Devuelve TRUE
 
-print(not1)
+print(or1)
